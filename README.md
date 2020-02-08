@@ -1,2 +1,2 @@
-# Portraiture
-A Portal for Photography Society of IIITG
+# photography
+Photography Template
